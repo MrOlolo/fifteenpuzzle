@@ -1,6 +1,9 @@
-# fifteenpuzzle
+# Fifteen Puzzle
 
-A new Flutter application.
+A first Flutter application. 
+Simple Puzzle game.
+
+![picture](doc/zbE2XOTErgQ.jpg)
 
 ## Getting Started
 
