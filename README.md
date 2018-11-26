@@ -3,7 +3,7 @@
 A first Flutter application. 
 Simple Puzzle game.
 
-![picture](docs/zbE2XOTErgQ.jpg)
+![picture](docs/zbE2XOTErgQ.jpg){:height="20%" width="20%"}
 
 ## Getting Started
 
