@@ -44,7 +44,9 @@ class GameBoardState extends State<GameBoard> implements BoardView {
               crossAxisSpacing: 10.0,
               mainAxisSpacing: 10.0,
               children: _buildGridTileList(_tiles),
-              shrinkWrap: true),
+              shrinkWrap: true,
+              physics: NeverScrollableScrollPhysics(),
+          ),
         ]),
       ),
       floatingActionButton: FloatingActionButton(
